@@ -4,7 +4,7 @@ Hello, this is a test of the markdown for module 1.
 
 _Here is something in italics._
 
-[x] Here
-[ ] is
-[ ] a
-[ ] list
+- [x] Here
+- [ ] is
+- [ ] a
+- [ ] list
